@@ -580,11 +580,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: hack0617
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\akira\Desktop\_UnityProject\hack0617\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 809d765a4a44d601
   metroApplicationDescription: hack0617
   wsaImages: {}
   metroTileShortName: 
