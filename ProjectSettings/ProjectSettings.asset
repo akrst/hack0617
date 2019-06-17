@@ -580,7 +580,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: hack0617
   metroPackageVersion: 
-  metroCertificatePath: C:\Users\akira\Desktop\_UnityProject\hack0617\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
@@ -602,10 +602,12 @@ PlayerSettings:
   platformCapabilities:
     WindowsStoreApps:
       HumanInterfaceDevice: False
-      InternetClient: False
+      InternetClient: True
       InternetClientServer: False
+      Microphone: False
       PrivateNetworkClientServer: False
       SpatialPerception: True
+      WebCam: False
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
